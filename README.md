@@ -65,6 +65,9 @@ Soy un profesional con una sólida trayectoria en el sector de **Hidrocarburos y
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [linkedin.com/in/giovannyariza](https://www.linkedin.com/in/giovannyariza/)
 - **Portafolio Personal:** [Mi Portafolio en Notion](https://gariza90.notion.site/Giovanny-Ariza-Data-Analyst-Especialista-en-Operaciones-e-Hidrocarburos-36855e87db9c80b88562de76519663f1)
 - **Email:** [giovannyarizanarvaez@gmail.com](mailto:giovannyarizanarvaez@gmail.com)
+
+<a href="https://www.linkedin.com/in/giovannyariza/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
