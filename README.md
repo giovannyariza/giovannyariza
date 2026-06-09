@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Giovanny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Data Analyst | Especialista en Operaciones e Hidrocarburos
+<h2 align="center">Data Analyst | Especialista en Operaciones e Hidrocarburos</h2>
 
 Soy un profesional con una sólida trayectoria en el sector de **Hidrocarburos y Operaciones**, ahora enfocado en potenciar la toma de decisiones a través del **Análisis de Datos**. Mi enfoque se centra en cerrar la brecha entre los procesos industriales complejos y la inteligencia de negocios.
 
